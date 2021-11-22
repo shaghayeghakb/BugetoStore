@@ -1,0 +1,19 @@
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.infrastructure\bin\Debug\netcoreapp2.1\bugeto_stor.infrastructure.deps.json
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.infrastructure\bin\Debug\netcoreapp2.1\bugeto_stor.infrastructure.dll
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.infrastructure\bin\Debug\netcoreapp2.1\bugeto_stor.infrastructure.pdb
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.infrastructure\obj\Debug\netcoreapp2.1\bugeto_stor.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.infrastructure\obj\Debug\netcoreapp2.1\bugeto_stor.infrastructure.AssemblyInfoInputs.cache
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.infrastructure\obj\Debug\netcoreapp2.1\bugeto_stor.infrastructure.AssemblyInfo.cs
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.infrastructure\obj\Debug\netcoreapp2.1\bugeto_stor.infrastructure.dll
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.infrastructure\obj\Debug\netcoreapp2.1\bugeto_stor.infrastructure.pdb
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.infrastructure\obj\Debug\netcoreapp2.1\bugeto_stor.infrastructure.csprojAssemblyReference.cache
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.infrastructure\bin\Debug\netcoreapp2.1\bugeto_stor.infrastructure.deps.json
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.infrastructure\bin\Debug\netcoreapp2.1\bugeto_stor.infrastructure.dll
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.infrastructure\bin\Debug\netcoreapp2.1\bugeto_stor.infrastructure.pdb
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.infrastructure\obj\Debug\netcoreapp2.1\bugeto_stor.infrastructure.csproj.AssemblyReference.cache
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.infrastructure\obj\Debug\netcoreapp2.1\bugeto_stor.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.infrastructure\obj\Debug\netcoreapp2.1\bugeto_stor.infrastructure.AssemblyInfoInputs.cache
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.infrastructure\obj\Debug\netcoreapp2.1\bugeto_stor.infrastructure.AssemblyInfo.cs
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.infrastructure\obj\Debug\netcoreapp2.1\bugeto_stor.infrastructure.csproj.CoreCompileInputs.cache
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.infrastructure\obj\Debug\netcoreapp2.1\bugeto_stor.infrastructure.dll
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.infrastructure\obj\Debug\netcoreapp2.1\bugeto_stor.infrastructure.pdb

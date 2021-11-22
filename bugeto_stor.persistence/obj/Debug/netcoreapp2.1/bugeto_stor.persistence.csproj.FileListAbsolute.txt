@@ -1,0 +1,23 @@
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.persistence\bin\Debug\netcoreapp2.1\bugeto_stor.persistence.deps.json
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.persistence\bin\Debug\netcoreapp2.1\bugeto_stor.persistence.dll
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.persistence\bin\Debug\netcoreapp2.1\bugeto_stor.persistence.pdb
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.persistence\obj\Debug\netcoreapp2.1\bugeto_stor.persistence.csprojAssemblyReference.cache
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.persistence\obj\Debug\netcoreapp2.1\bugeto_stor.persistence.csproj.CoreCompileInputs.cache
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.persistence\obj\Debug\netcoreapp2.1\bugeto_stor.persistence.AssemblyInfoInputs.cache
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.persistence\obj\Debug\netcoreapp2.1\bugeto_stor.persistence.AssemblyInfo.cs
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.persistence\obj\Debug\netcoreapp2.1\bugeto_stor.persistence.dll
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.persistence\obj\Debug\netcoreapp2.1\bugeto_stor.persistence.pdb
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.persistence\bin\Debug\netcoreapp2.1\bugeto_stor.domain.dll
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.persistence\bin\Debug\netcoreapp2.1\bugeto_stor.domain.pdb
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.persistence\obj\Debug\netcoreapp2.1\bugeto_stor.persistence.csproj.CopyComplete
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.persistence\bin\Debug\netcoreapp2.1\bugeto_stor.application.dll
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.persistence\bin\Debug\netcoreapp2.1\bugeto_stor.application.pdb
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.persistence\bin\Debug\netcoreapp2.1\bugeto_stor.common.dll
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.persistence\bin\Debug\netcoreapp2.1\bugeto_stor.common.pdb
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.persistence\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.persistence\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.persistence\obj\Debug\netcoreapp2.1\bugeto_stor.persistence.csproj.AssemblyReference.cache
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.persistence\obj\Debug\netcoreapp2.1\bugeto_stor.persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.persistence\obj\Debug\netcoreapp2.1\bugeto_stor.persistence.AssemblyInfoInputs.cache
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.persistence\obj\Debug\netcoreapp2.1\bugeto_stor.persistence.AssemblyInfo.cs
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.persistence\obj\Debug\netcoreapp2.1\bugeto_stor.persistence.csproj.CoreCompileInputs.cache

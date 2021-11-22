@@ -1,0 +1,8 @@
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\endpoint.site\obj\Debug\netcoreapp5.0\endpoint.site.csproj.AssemblyReference.cache
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\endpoint.site\obj\Debug\netcoreapp5.0\endpoint.site.GeneratedMSBuildEditorConfig.editorconfig
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\endpoint.site\obj\Debug\netcoreapp5.0\endpoint.site.AssemblyInfoInputs.cache
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\endpoint.site\obj\Debug\netcoreapp5.0\endpoint.site.AssemblyInfo.cs
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\endpoint.site\obj\Debug\netcoreapp5.0\endpoint.site.csproj.CoreCompileInputs.cache
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\endpoint.site\obj\Debug\netcoreapp5.0\endpoint.site.MvcApplicationPartsAssemblyInfo.cache
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\endpoint.site\obj\Debug\netcoreapp5.0\endpoint.site.RazorAssemblyInfo.cache
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\endpoint.site\obj\Debug\netcoreapp5.0\endpoint.site.RazorAssemblyInfo.cs

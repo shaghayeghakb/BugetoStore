@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.0-preview.4.20220.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.0-preview.4.20220.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.0-preview.4.20220.10" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.0-preview.6.20323.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\admin\data\" />
+    <Folder Include="Areas\admin\models\" />
+    <Folder Include="wwwroot\SiteTemplate\assets\images\menu-main\card\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\bugeto_stor.application\bugeto_stor.application.csproj" />
+    <ProjectReference Include="..\bugeto_stor.persistence\bugeto_stor.persistence.csproj" />
+    
+  </ItemGroup>
+
+</Project>

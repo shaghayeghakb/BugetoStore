@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = netcoreapp5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = endpoint.site
+build_property.ProjectDir = E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\endpoint.site\

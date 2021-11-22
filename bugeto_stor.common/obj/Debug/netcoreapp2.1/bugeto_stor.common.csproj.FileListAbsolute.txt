@@ -1,0 +1,22 @@
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.common\bin\Debug\netcoreapp2.1\bugeto_stor.common.deps.json
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.common\bin\Debug\netcoreapp2.1\bugeto_stor.common.dll
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.common\bin\Debug\netcoreapp2.1\bugeto_stor.common.pdb
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.common\obj\Debug\netcoreapp2.1\bugeto_stor.common.csproj.CoreCompileInputs.cache
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.common\obj\Debug\netcoreapp2.1\bugeto_stor.common.AssemblyInfoInputs.cache
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.common\obj\Debug\netcoreapp2.1\bugeto_stor.common.AssemblyInfo.cs
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.common\obj\Debug\netcoreapp2.1\bugeto_stor.common.dll
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.common\obj\Debug\netcoreapp2.1\bugeto_stor.common.pdb
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.common\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.common\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.common\obj\Debug\netcoreapp2.1\bugeto_stor.common.csproj.CopyComplete
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.common\obj\Debug\netcoreapp2.1\bugeto_stor.common.csprojAssemblyReference.cache
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.common\bin\Debug\netcoreapp2.1\bugeto_stor.common.deps.json
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.common\bin\Debug\netcoreapp2.1\bugeto_stor.common.dll
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.common\bin\Debug\netcoreapp2.1\bugeto_stor.common.pdb
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.common\obj\Debug\netcoreapp2.1\bugeto_stor.common.csproj.AssemblyReference.cache
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.common\obj\Debug\netcoreapp2.1\bugeto_stor.common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.common\obj\Debug\netcoreapp2.1\bugeto_stor.common.AssemblyInfoInputs.cache
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.common\obj\Debug\netcoreapp2.1\bugeto_stor.common.AssemblyInfo.cs
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.common\obj\Debug\netcoreapp2.1\bugeto_stor.common.csproj.CoreCompileInputs.cache
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.common\obj\Debug\netcoreapp2.1\bugeto_stor.common.dll
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.common\obj\Debug\netcoreapp2.1\bugeto_stor.common.pdb

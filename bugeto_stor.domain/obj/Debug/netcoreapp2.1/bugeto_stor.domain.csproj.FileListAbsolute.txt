@@ -1,0 +1,18 @@
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.domain\bin\Debug\netcoreapp2.1\bugeto_stor.domain.deps.json
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.domain\bin\Debug\netcoreapp2.1\bugeto_stor.domain.dll
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.domain\bin\Debug\netcoreapp2.1\bugeto_stor.domain.pdb
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.domain\obj\Debug\netcoreapp2.1\bugeto_stor.domain.csproj.CoreCompileInputs.cache
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.domain\obj\Debug\netcoreapp2.1\bugeto_stor.domain.AssemblyInfoInputs.cache
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.domain\obj\Debug\netcoreapp2.1\bugeto_stor.domain.AssemblyInfo.cs
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.domain\obj\Debug\netcoreapp2.1\bugeto_stor.domain.dll
+C:\Users\shaghayegh\source\repos\bugeto_stor\bugeto_stor.domain\obj\Debug\netcoreapp2.1\bugeto_stor.domain.pdb
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.domain\bin\Debug\netcoreapp2.1\bugeto_stor.domain.deps.json
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.domain\bin\Debug\netcoreapp2.1\bugeto_stor.domain.dll
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.domain\bin\Debug\netcoreapp2.1\bugeto_stor.domain.pdb
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.domain\obj\Debug\netcoreapp2.1\bugeto_stor.domain.csproj.AssemblyReference.cache
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.domain\obj\Debug\netcoreapp2.1\bugeto_stor.domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.domain\obj\Debug\netcoreapp2.1\bugeto_stor.domain.AssemblyInfoInputs.cache
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.domain\obj\Debug\netcoreapp2.1\bugeto_stor.domain.AssemblyInfo.cs
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.domain\obj\Debug\netcoreapp2.1\bugeto_stor.domain.csproj.CoreCompileInputs.cache
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.domain\obj\Debug\netcoreapp2.1\bugeto_stor.domain.dll
+E:\Local Disk\3\.net core احسان بابایی\Source\repos\bugeto_stor\bugeto_stor.domain\obj\Debug\netcoreapp2.1\bugeto_stor.domain.pdb

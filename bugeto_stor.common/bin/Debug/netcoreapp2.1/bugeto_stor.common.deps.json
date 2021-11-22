@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "bugeto_stor.common/1.0.0": {
+        "runtime": {
+          "bugeto_stor.common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bugeto_stor.common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
